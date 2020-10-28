@@ -1,2 +1,2 @@
 # Core
-Main Кepository
+Main Repository
